@@ -7,7 +7,7 @@ Health Passport is a system which can guarantee a safer class environment during
 specifically for the student side application. To see the other two platforms (Professor side and Health 
 Service side), you can go to
 
-* https://github.com/cs394-s20/HealthTracker_Professor_View
+* https://github.com/anamkhan2/HealthTracker_Professor_View
 * https://github.com/cs394-s20/HealthServices_View
 
 This mobile app will let students input their temperatures each day, and upload some verification image,
