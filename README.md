@@ -8,7 +8,7 @@ specifically for the student side application. To see the other two platforms (P
 Service side), you can go to
 
 * https://github.com/anamkhan2/HealthTracker_Professor_View
-* https://github.com/cs394-s20/HealthServices_View
+* https://github.com/anamkhan2/HealthServices_View
 
 This mobile app will let students input their temperatures each day, and upload some verification image,
 so that professor can decide who is eligible for the class.
